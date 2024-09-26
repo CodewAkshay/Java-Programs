@@ -17,7 +17,7 @@ class Table1{
             System.out.println("\n");
             row = row + 1 ;
         }
-        while (row <= 10);
+        while (row <= 10); // You can also write while(row = 11);
 
     }
 }
