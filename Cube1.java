@@ -8,7 +8,6 @@ public static void main(String args[]){
 	System.out.println("Cube of "+n+" is = "+cub);
 	}
 }
-
 // Save : Cube1.java
 // Compile : javac Cube1.java
-// Run : java Cube1
+// Run : java Cube1r
